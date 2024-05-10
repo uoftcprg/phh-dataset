@@ -1,0 +1,17 @@
+variant = 'NT'
+ante_trimming_status = true
+antes = [0, 500000, 0, 0, 0, 0, 0, 0]
+blinds_or_straddles = [250000, 500000, 0, 0, 0, 0, 0, 0]
+min_bet = 500000
+starting_stacks = [13050000, 9525000, 6675000, 5750000, 9150000, 6525000, 14100000, 7300000]
+actions = ['d dh p1 QdJd', 'd dh p2 Ac7c', 'd dh p3 Qh3h', 'd dh p4 6s5c', 'd dh p5 Ad7s', 'd dh p6 9c4c', 'd dh p7 3s3c', 'd dh p8 Td3d', 'p3 f', 'p4 f', 'p5 f', 'p6 f', 'p7 cbr 1150000', 'p1 cc', 'p2 cc', 'd db ThJc5h', 'p1 cc', 'p2 cc', 'p7 cc', 'd db 6c', 'p1 cc', 'p2 cc', 'p7 cc', 'd db 8s', 'p1 cc', 'p2 cbr 2250000', 'p7 f', 'p1 cc', 'p2 sm Ac7c', 'p1 sm QdJd']
+author = 'Juho Kim'
+event = '2019 World Series of Poker Event #42: $600 Mixed No-Limit Hold’em / Pot-Limit Omaha Deepstack | Day 3'
+city = 'Las Vegas'
+region = 'Nevada'
+country = 'United States of America'
+day = 20
+month = 6
+year = 2019
+players = ['Dan Matsuzuki', 'Rainer Kempe', 'Aristeidis Moschonas', 'Raghav Bansal', 'Daniel Moravec', 'Stephen Ma', 'Adam Lamphere', 'Ashish Ahuja']
+finishing_stacks = [18100000, 5625000, 6675000, 5750000, 9150000, 6525000, 12950000, 7300000]
