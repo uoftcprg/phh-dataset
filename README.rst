@@ -4,8 +4,6 @@ Poker Hand Histories
 
 A collection of poker hand histories, covering 11 poker variants, in the poker hand history (PHH) format.
 
-Due to space constraints, the accompanying `GitHub repository <https://github.com/uoftcprg/phh-dataset>`_ only contains a small subset of the full dataset. A full version is available on `Zenodo <https://doi.org/10.5281/zenodo.10796885>`_.
-
 To contribute, please create a pull request or an issue at the accompanying `GitHub repository <https://github.com/uoftcprg/phh-dataset>`_.
 
 Contents:
