@@ -1,0 +1,227 @@
+[1]
+variant = 'NT'
+ante_trimming_status = false
+antes = [0.25, 0.25, 0.25, 0.25, 0.25, 0.25]
+blinds_or_straddles = [0.50, 1, 0, 0, 0, 0]
+min_bet = 1
+starting_stacks = [92.75, 434.70, 101.08, 12.60, 23.05, 47.37]
+actions = ['d dh p1 ????', 'd dh p2 ????', 'd dh p3 ????', 'd dh p4 ????', 'd dh p5 ????', 'd dh p6 ????', 'p3 f', 'p4 cbr 5', 'p5 f', 'p6 cc', 'p1 f', 'p2 f', 'd db JsJd8d', 'p4 cbr 7.35', 'p6 cc', 'p4 sm ????', 'p6 sm ????', 'd db 6h', 'p4 sm ????', 'p6 sm ????', 'd db 6s', 'p6 sm 4dQd', 'p4 sm TdKs']
+venue = 'Absolute Poker'
+time = 14:53:46
+day = 20
+month = 7
+year = 2009
+hand = 3086410066
+seats = [3, 4, 5, 6, 1, 2]
+table = 'FREEMAN AVE'
+players = ['kIbanshKysxtdDXKqLAWsA', 'VUgMf0tFPqJd//O/7qLHKg', '0IhkZmtpscV5ieF5xcQY9g', 'k0mOFHJA6jMtH8TmJdmwhg', 'c7viTQ2UeiKP0/S+3ETwyw', '28RDEdh2NiPcstWgkUOeeA']
+currency_symbol = '$'
+time_zone_abbreviation = 'ET'
+
+[2]
+variant = 'NT'
+ante_trimming_status = false
+antes = [0, 0, 0, 0, 0, 0, 0, 0]
+blinds_or_straddles = [0.50, 1, 0, 0, 0, 0, 0, 0]
+min_bet = 1
+starting_stacks = [98.20, 98.50, 39, 92.15, 40, 175.90, 125.35, 198.50]
+actions = ['d dh p1 ????', 'd dh p2 ????', 'd dh p3 ????', 'd dh p4 ????', 'd dh p5 ????', 'd dh p6 ????', 'd dh p7 ????', 'd dh p8 ????', 'p3 f', 'p4 f', 'p5 cc', 'p6 cc', 'p7 f', 'p8 f', 'p1 f', 'p2 cc', 'd db 9cQcKh', 'p2 cc', 'p5 cc', 'p6 cc', 'd db 3h', 'p2 cc', 'p5 cc', 'p6 cc', 'd db 5s', 'p2 cc', 'p5 cc', 'p6 cc', 'p2 sm Th4d', 'p5 sm Jh5d', 'p6 sm 9sTc']
+venue = 'Absolute Poker'
+time = 14:54:08
+day = 20
+month = 7
+year = 2009
+hand = 3086402888
+seats = [1, 2, 3, 4, 5, 6, 8, 9]
+table = 'RICHLAND'
+players = ['zfQcStQNfOfYWt1DPsb4DQ', 'yMNwDKj4ZgKkq6e2/e7fGw', 'rGOMmhiRPFw1EoWv6FkusQ', 'K8PuIZCpiRpDmDFs3k4N9w', 'ylAikhhXrw0QjUYGxdUXyg', 'VejrteQ6INC0g4UKZR7P8A', 'B5NlVr9GhdJbSpfVgmbsBQ', '29TRvsUIOfCtgBIa9W9tEw']
+currency_symbol = '$'
+time_zone_abbreviation = 'ET'
+
+[3]
+variant = 'NT'
+ante_trimming_status = false
+antes = [0.25, 0.25, 0.25, 0.25, 0.25, 0.25]
+blinds_or_straddles = [0.50, 1, 0, 0, 0, 0]
+min_bet = 1
+starting_stacks = [433.45, 100.83, 25.85, 22.80, 34.77, 92]
+actions = ['d dh p1 ????', 'd dh p2 ????', 'd dh p3 ????', 'd dh p4 ????', 'd dh p5 ????', 'd dh p6 ????', 'p3 f', 'p4 f', 'p5 f', 'p6 cbr 4', 'p1 f', 'p2 f']
+venue = 'Absolute Poker'
+time = 14:54:16
+day = 20
+month = 7
+year = 2009
+hand = 3086411424
+seats = [4, 5, 6, 1, 2, 3]
+table = 'FREEMAN AVE'
+players = ['VUgMf0tFPqJd//O/7qLHKg', '0IhkZmtpscV5ieF5xcQY9g', 'k0mOFHJA6jMtH8TmJdmwhg', 'c7viTQ2UeiKP0/S+3ETwyw', '28RDEdh2NiPcstWgkUOeeA', 'kIbanshKysxtdDXKqLAWsA']
+winnings = [0, 0, 0, 0, 0, 4]
+currency_symbol = '$'
+time_zone_abbreviation = 'ET'
+
+[4]
+variant = 'NT'
+ante_trimming_status = false
+antes = [0, 0, 0, 0, 0, 0]
+blinds_or_straddles = [0.50, 1, 0, 0, 0, 0]
+min_bet = 1
+starting_stacks = [190.35, 48.85, 54.10, 96.65, 178.80, 47.05]
+actions = ['d dh p1 ????', 'd dh p2 ????', 'd dh p3 ????', 'd dh p4 ????', 'd dh p5 ????', 'd dh p6 ????', 'p3 cc', 'p4 f', 'p5 f', 'p6 f', 'p1 f', 'p2 cc', 'd db 2s6d8d', 'p2 cc', 'p3 cc', 'd db Th', 'p2 cc', 'p3 cbr 2.50', 'p2 f']
+venue = 'Absolute Poker'
+time = 14:54:18
+day = 20
+month = 7
+year = 2009
+hand = 3086403492
+seats = [1, 2, 3, 4, 5, 6]
+table = 'BRIGHTON RD'
+players = ['Yf5qu9y2gcxOP3TmS4E/+A', 'fe4khL+YW9VOSj3CX/bVzw', '9zdNYmlyz74/a0duOtg3Gg', 'TK3VGReOGgFPOIO4e1m93A', 'AWdTXCuFvV8liWTbAsD0XA', '85egfJ1NecagW8AuJ4hDrw']
+winnings = [0, 0, 2.40, 0, 0, 0]
+currency_symbol = '$'
+time_zone_abbreviation = 'ET'
+
+[5]
+variant = 'NT'
+ante_trimming_status = false
+antes = [0.25, 0.25, 0.25, 0.25, 0.25]
+blinds_or_straddles = [0.50, 1, 0, 0, 0]
+min_bet = 1
+starting_stacks = [99.58, 25.60, 22.55, 94.75, 432.70]
+actions = ['d dh p1 ????', 'd dh p2 ????', 'd dh p3 ????', 'd dh p4 ????', 'd dh p5 ????', 'p3 f', 'p4 f', 'p5 f', 'p1 cbr 3.00', 'p2 cc', 'd db 7c4d2s', 'p1 cbr 4.20', 'p2 cbr 19.85', 'p1 f']
+venue = 'Absolute Poker'
+time = 14:54:37
+day = 20
+month = 7
+year = 2009
+hand = 3086412520
+seats = [5, 6, 1, 3, 4]
+table = 'FREEMAN AVE'
+players = ['0IhkZmtpscV5ieF5xcQY9g', 'k0mOFHJA6jMtH8TmJdmwhg', 'c7viTQ2UeiKP0/S+3ETwyw', 'kIbanshKysxtdDXKqLAWsA', 'VUgMf0tFPqJd//O/7qLHKg']
+winnings = [0, 14.40, 0, 0, 0]
+currency_symbol = '$'
+time_zone_abbreviation = 'ET'
+
+[6]
+variant = 'NT'
+ante_trimming_status = false
+antes = [0, 0, 0, 0, 0, 0]
+blinds_or_straddles = [0.50, 1, 0, 0, 0, 0]
+min_bet = 1
+starting_stacks = [47.85, 55.50, 96.65, 178.80, 47.05, 189.85]
+actions = ['d dh p1 ????', 'd dh p2 ????', 'd dh p3 ????', 'd dh p4 ????', 'd dh p5 ????', 'd dh p6 ????', 'p3 f', 'p4 cc', 'p5 f', 'p6 cbr 4.50', 'p1 f', 'p2 f', 'p4 f']
+venue = 'Absolute Poker'
+time = 14:54:41
+day = 20
+month = 7
+year = 2009
+hand = 3086404750
+seats = [2, 3, 4, 5, 6, 1]
+table = 'BRIGHTON RD'
+players = ['fe4khL+YW9VOSj3CX/bVzw', '9zdNYmlyz74/a0duOtg3Gg', 'TK3VGReOGgFPOIO4e1m93A', 'AWdTXCuFvV8liWTbAsD0XA', '85egfJ1NecagW8AuJ4hDrw', 'Yf5qu9y2gcxOP3TmS4E/+A']
+winnings = [0, 0, 0, 0, 0, 3.50]
+currency_symbol = '$'
+time_zone_abbreviation = 'ET'
+
+[7]
+variant = 'NT'
+ante_trimming_status = false
+antes = [0, 0, 0, 0, 0, 0]
+blinds_or_straddles = [0.50, 1, 0, 0, 0, 0]
+min_bet = 1
+starting_stacks = [54.50, 96.65, 177.80, 47.05, 192.35, 47.35]
+actions = ['d dh p1 ????', 'd dh p2 ????', 'd dh p3 ????', 'd dh p4 ????', 'd dh p5 ????', 'd dh p6 ????', 'p3 cc', 'p4 cc', 'p5 cc', 'p6 f', 'p1 cc', 'p2 cc', 'd db TsKc2d', 'p1 cbr 5', 'p2 f', 'p3 f', 'p4 f', 'p5 f']
+venue = 'Absolute Poker'
+time = 14:54:55
+day = 20
+month = 7
+year = 2009
+hand = 3086405626
+seats = [3, 4, 5, 6, 1, 2]
+table = 'BRIGHTON RD'
+players = ['9zdNYmlyz74/a0duOtg3Gg', 'TK3VGReOGgFPOIO4e1m93A', 'AWdTXCuFvV8liWTbAsD0XA', '85egfJ1NecagW8AuJ4hDrw', 'Yf5qu9y2gcxOP3TmS4E/+A', 'fe4khL+YW9VOSj3CX/bVzw']
+winnings = [4.25, 0, 0, 0, 0, 0]
+currency_symbol = '$'
+time_zone_abbreviation = 'ET'
+
+[8]
+variant = 'NT'
+ante_trimming_status = false
+antes = [0.25, 0.25, 0.25, 0.25, 0.25, 0.25]
+blinds_or_straddles = [0.50, 1, 0, 0, 0, 0]
+min_bet = 1
+starting_stacks = [32.55, 22.30, 40, 94.50, 432.45, 92.13]
+actions = ['d dh p1 ????', 'd dh p2 ????', 'd dh p3 ????', 'd dh p4 ????', 'd dh p5 ????', 'd dh p6 ????', 'p3 cc', 'p4 f', 'p5 f', 'p6 f', 'p1 cc', 'p2 cc', 'd db Th3h2d', 'p1 cc', 'p2 cc', 'p3 cbr 2', 'p1 cc', 'p2 f', 'd db Ad', 'p1 cc', 'p3 cc', 'd db Kh', 'p1 cbr 4.25', 'p3 cc', 'p1 sm 8h3s', 'p3 sm 4sAs']
+venue = 'Absolute Poker'
+time = 14:55:14
+day = 20
+month = 7
+year = 2009
+hand = 3086414476
+seats = [6, 1, 2, 3, 4, 5]
+table = 'FREEMAN AVE'
+players = ['k0mOFHJA6jMtH8TmJdmwhg', 'c7viTQ2UeiKP0/S+3ETwyw', 'R3p4qQc/ZjAp2QxrZFpD9Q', 'kIbanshKysxtdDXKqLAWsA', 'VUgMf0tFPqJd//O/7qLHKg', '0IhkZmtpscV5ieF5xcQY9g']
+currency_symbol = '$'
+time_zone_abbreviation = 'ET'
+
+[9]
+variant = 'NT'
+ante_trimming_status = false
+antes = [0, 0, 0, 0, 0, 0]
+blinds_or_straddles = [0.50, 1, 0, 0, 0, 0]
+min_bet = 1
+starting_stacks = [95.65, 176.80, 46.05, 191.35, 47.35, 57.75]
+actions = ['d dh p1 ????', 'd dh p2 ????', 'd dh p3 ????', 'd dh p4 ????', 'd dh p5 ????', 'd dh p6 ????', 'p3 f', 'p4 f', 'p5 cbr 3', 'p6 f', 'p1 f', 'p2 f']
+venue = 'Absolute Poker'
+time = 14:55:15
+day = 20
+month = 7
+year = 2009
+hand = 3086406752
+seats = [4, 5, 6, 1, 2, 3]
+table = 'BRIGHTON RD'
+players = ['TK3VGReOGgFPOIO4e1m93A', 'AWdTXCuFvV8liWTbAsD0XA', '85egfJ1NecagW8AuJ4hDrw', 'Yf5qu9y2gcxOP3TmS4E/+A', 'fe4khL+YW9VOSj3CX/bVzw', '9zdNYmlyz74/a0duOtg3Gg']
+winnings = [0, 0, 0, 0, 2.50, 0]
+currency_symbol = '$'
+time_zone_abbreviation = 'ET'
+
+[10]
+variant = 'NT'
+ante_trimming_status = false
+antes = [0, 0, 0, 0, 0, 0]
+blinds_or_straddles = [0.50, 1, 0, 0, 0, 0]
+min_bet = 1
+starting_stacks = [175.80, 46.05, 191.35, 48.85, 57.75, 95.15]
+actions = ['d dh p1 ????', 'd dh p2 ????', 'd dh p3 ????', 'd dh p4 ????', 'd dh p5 ????', 'd dh p6 ????', 'p3 f', 'p4 f', 'p5 f', 'p6 cbr 3.50', 'p1 cc', 'p2 f', 'd db 8h2sTd', 'p1 cc', 'p6 cbr 8', 'p1 f']
+venue = 'Absolute Poker'
+time = 14:55:29
+day = 20
+month = 7
+year = 2009
+hand = 3086407508
+seats = [5, 6, 1, 2, 3, 4]
+table = 'BRIGHTON RD'
+players = ['AWdTXCuFvV8liWTbAsD0XA', '85egfJ1NecagW8AuJ4hDrw', 'Yf5qu9y2gcxOP3TmS4E/+A', 'fe4khL+YW9VOSj3CX/bVzw', '9zdNYmlyz74/a0duOtg3Gg', 'TK3VGReOGgFPOIO4e1m93A']
+winnings = [0, 0, 0, 0, 0, 7.10]
+currency_symbol = '$'
+time_zone_abbreviation = 'ET'
+
+[11]
+variant = 'NT'
+ante_trimming_status = false
+antes = [0, 0, 0, 0, 0, 0]
+blinds_or_straddles = [0.50, 1, 0, 0, 0, 0]
+min_bet = 1
+starting_stacks = [45.05, 191.35, 48.85, 57.75, 98.75, 172.30]
+actions = ['d dh p1 ????', 'd dh p2 ????', 'd dh p3 ????', 'd dh p4 ????', 'd dh p5 ????', 'd dh p6 ????', 'p3 f', 'p4 cc', 'p5 f', 'p6 f', 'p1 f', 'p2 cc', 'd db 5c9hKh', 'p2 cc', 'p4 cc', 'd db 6d', 'p2 cc', 'p4 cbr 2.50', 'p2 f']
+venue = 'Absolute Poker'
+time = 14:55:54
+day = 20
+month = 7
+year = 2009
+hand = 3086408926
+seats = [6, 1, 2, 3, 4, 5]
+table = 'BRIGHTON RD'
+players = ['85egfJ1NecagW8AuJ4hDrw', 'Yf5qu9y2gcxOP3TmS4E/+A', 'fe4khL+YW9VOSj3CX/bVzw', '9zdNYmlyz74/a0duOtg3Gg', 'TK3VGReOGgFPOIO4e1m93A', 'AWdTXCuFvV8liWTbAsD0XA']
+winnings = [0, 0, 0, 2.40, 0, 0]
+currency_symbol = '$'
+time_zone_abbreviation = 'ET'
