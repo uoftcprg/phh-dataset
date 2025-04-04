@@ -2,7 +2,7 @@
 Poker Hand Histories
 ====================
 
-A collection of poker hand histories, covering 11 poker variants, in the poker hand history (PHH) format.
+A collection of poker hand histories, covering 11 poker variants, in the [poker hand history (PHH) format](https://phh.readthedocs.io/en/stable/).
 
 To contribute, please create a pull request or an issue at the accompanying `GitHub repository <https://github.com/uoftcprg/phh-dataset>`_.
 
