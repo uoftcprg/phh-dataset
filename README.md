@@ -16,7 +16,7 @@ Contents:
   - ~~2013: 27,951,000 fixed-limit (26,091,000 heads-up, 1,860,000 3-player), 19,836,000 heads-up no-limit hold'em hands.~~
   - ~~2014: 25,097,320 fixed-limit (19,337,320 heads-up, 5,760,000 3-player), 48,048,000 heads-up no-limit hold'em hands (24,024,000 unique, all duplicated with expected utility estimates).~~
   - ~~2016: 65,458,631 heads-up no-limit hold'em hands (16,965,000 unique, all duplicated for partitioned archiving and with expected utility estimates).~~
-  - ~~2017: 91,499,594 heads-up no-limit hold'em hands (45,750,000 unique, some duplicated for partitioned archiving or with expected utility estimates).~~
+  - ~~2017: 91,499,594 heads-up no-limit hold'em hands (45,750,000 unique, almost all duplicated with expected utility estimates).~~
 - 21,605,687 uncorrupted no-limit hold'em hands from anonymized hand history logs scraped from July 1st to July 23, 2009, uploaded by HandHQ, of varying stakes (from 25NL to 1000NL).
   - Absolute Poker: 1,270,658.
   - Full Tilt Poker: 1,299,503.
